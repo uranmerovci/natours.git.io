@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eas",
+				"ease-out\tanimation-timing-function"
+			],
+			[
+				"1rem",
+				"1rem"
+			],
+			[
+				"anima",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"animat",
+				"animation-name\tproperty"
+			],
+			[
+				"transl",
+				"translateY()\ttransform"
+			],
+			[
+				"tran",
+				"translateY()\ttransform"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"translat",
+				"translateX()\ttransform"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"alig",
+				"align-self\tproperty"
+			],
+			[
+				"flex",
+				"flex\tdisplay"
+			],
+			[
+				"grid",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"cone",
+				"align-content\tproperty"
+			],
+			[
+				"cont",
+				"justify-content\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"Hea",
+				"HEADER\tTag"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"font-size",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"border",
+				"border-collapse\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"Register",
+				"Register"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"list",
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Uran/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Uran/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Uran/Documents/GitHub/uranmerovci.git.io/style.css",
+		"/C/Users/Uran/Documents/GitHub/uranmerovci.git.io/index.html",
+		"/C/Users/Uran/Desktop/udemy/Advanced CSS Course/advanced-css-course-master/Natours/starter/index.html",
+		"/C/Users/Uran/Desktop/udemy/Advanced CSS Course/advanced-css-course-master/Natours/starter/css/style.css",
+		"/C/Users/Uran/Desktop/udemy/Advanced CSS Course/advanced-css-course-master/Natours/starter/stle.css",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/Section 4/index.html",
+		"/C/Users/Uran/Desktop/udemy/Advanced CSS Course/advanced-css-course-master/Natours/starter/package.json",
+		"/C/Users/Uran/Desktop/udemy/Advanced CSS Course/advanced-css-course-master/Natours/starter/sass/main.scss",
+		"/C/Users/Uran/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Uran/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/StartupLandingPage/style.css",
+		"/C/Users/Uran/Desktop/udemy/Advanced CSS Course/advanced-css-course-master/Natours/starter/package-lock.json",
+		"/C/Users/Uran/Downloads/exercise5-SOLUTIONS-1 (1).js",
+		"/C/Users/Uran/Downloads/exercise3.js",
+		"/C/Users/Uran/Downloads/exercise4.js",
+		"/C/Users/Uran/Downloads/exercise5.js",
+		"/C/Users/Uran/Downloads/exerciseES7.js",
+		"/C/Users/Uran/Desktop/test.script",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/HARCOREGYM/style.css",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/HARCOREGYM/index.html",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/Section 4/style2.css",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/Section 4/style.css",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/My own Website/index.html",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/New folder/style.css",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/My own Website/stylesheet.css",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/JS/script.js",
+		"/C/Users/Uran/Downloads/DOM-selectors.txt",
+		"/C/Users/Uran/Downloads/exercise7-SOLUTIONS.js",
+		"/C/Users/Uran/Downloads/SectionOutline.txt",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/JS/script.html",
+		"/C/Users/Uran/Downloads/exercise7.txt",
+		"/C/Users/Uran/Downloads/exercise4-SOLUTIONS.txt",
+		"/C/Users/Uran/Downloads/exercise4.txt",
+		"/C/Users/Uran/Downloads/exercise3-SOLUTIONS.txt",
+		"/C/Users/Uran/Downloads/exercise3.txt",
+		"/C/Users/Uran/Downloads/exercise2.txt",
+		"/C/Users/Uran/Downloads/exercise1.txt",
+		"/C/Users/Uran/Desktop/udemy/WEB zero to hero/Section 4/Chest.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
